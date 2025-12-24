@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Islam Qasimov</h1>
-<h3 align="center">A passionate Junior Penteration Tester from Azerbaijan</h3>
+<h3 align="center">A passionate Red/Blue/Dev Cyber Security student</h3>
 <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/10260230/93533501-53aa0d80-f943-11ea-90d1-e6e70eca2e29.gif">
 
 
